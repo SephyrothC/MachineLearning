@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="Cours.md">
+
+    <toc-element topic="Cours.md">
+        <toc-element topic="Introduction.md"/>
+        <toc-element topic="Decider-sans-apprendre.md"/>
+    </toc-element>
+    <toc-element topic="starter.md"/>
+</instance-profile>
